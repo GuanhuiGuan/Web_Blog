@@ -1,0 +1,38 @@
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	color: rgba(0, 0, 0, 0.6);
+
+	margin-left: 1.66%;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.6);
+	width: 46%;
+}
+
+h2 {
+	font-family: 'Titillium Web', sans-serif;
+	color: rgba(0, 0, 0, 0.4);
+	clear: both;
+	margin-left: 1.66%;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+	width: 40%;
+}
+
+img {
+	float: left;
+	width: 30%;
+	margin: 1.66%;
+	display: block;
+}
+
+h1:hover {
+	width: 80%;
+	border-radius: 4px;
+	transition: .3s ease;
+	text-align: center;
+	align-content: center;
+}
+
+h2:hover {
+	width: 80%;
+	border-radius: 4px;
+	transition: .5s ease;
+}
