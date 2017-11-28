@@ -1,5 +1,7 @@
 body {
 	font-family: 'Titillium Web', sans-serif;
+	background-image: url("bg.jpg");
+	background-attachment: fixed;
 }
 
 h1 {
